@@ -10,13 +10,13 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 
-
-
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
+
+/* This is a test*/
+
 @Table(name = "Customer_Details")
 public class Customer {
 	
