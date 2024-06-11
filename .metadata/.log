@@ -8843,3 +8843,9 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-12 02:44:12.910
 !MESSAGE Boot project ADDED: office-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-12 03:09:33.210
+!MESSAGE Classpath changed for project: Customer_Service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-12 03:09:44.634
+!MESSAGE Classpath changed for project: Customer_Service
