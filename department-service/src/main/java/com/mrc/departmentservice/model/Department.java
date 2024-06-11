@@ -32,7 +32,6 @@ public class Department {
 	 * } public String getDepartmentCode() { return departmentCode; } public void
 	 * setDepartmentCode(String departmentCode) { this.departmentCode =
 	 * departmentCode; }
-	 * 
 	 * @Override public String toString() { return "Department [id=" + id +
 	 * ", departmentName=" + departmentName + ", departmentDescription=" +
 	 * departmentDescription + ", departmentCode=" + departmentCode + "]"; } public
